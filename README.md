@@ -1,1 +1,1 @@
-# NatoPhonetic-Project
+# Have you ever been on the phone and they ask you your name, and how to spell it? Let's say you have a funny name that has a "T" in it but it sounds like a "C". Anyways this program is designed to help breakdown your name so people can actually spell your name right haha. I used something called dictionary comprehension, pandas, and obviously python. Enjoy!!
